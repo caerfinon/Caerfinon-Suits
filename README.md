@@ -19,6 +19,9 @@ Recommends Benjee10's Historical Kerbal Suits - https://spacedock.info/mod/2675/
 Licences
 --------
 Original suits and configurtion files: MIT License Copyright (c) 2022 Caerfinon
-Artwork from USI Kolonization Class Suits Redux: CC-BY-SA-4.0 License Copyright (c) 2019 overkill13 
-	- changed orientation of the diffuse versions of the suit textures and derived icon files based on those changes for incorporation in Suit Picker 
-	- Source material from v1.0.3 of this mod - https://spacedock.info/mod/2035/[TextureReplacer]%20USI%20Kolonization%20Class%20Suits%20Redux 
+
+Artwork from USI Kolonization Class Suits Redux: CC-BY-SA-4.0 License Copyright (c) 2019 overkill13
+
+  - changed orientation of the diffuse versions of the suit textures and derived icon files based on those changes for incorporation in Suit Picker 
+  - Source material from v1.0.3 of this mod - https://spacedock.info/mod/2035/[TextureReplacer]%20USI%20Kolonization%20Class%20Suits%20Redux
+  - all occupation classes and veteran version of same converted. 

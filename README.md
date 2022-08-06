@@ -18,7 +18,7 @@ Recommends Benjee10's Historical Kerbal Suits - https://spacedock.info/mod/2675/
   
 Licences
 --------
-Original suits and configurtion files: MIT License Copyright (c) 2022 Caerfinon
+Original suits and configuration files: MIT License Copyright (c) 2022 Caerfinon
 
 Artwork from USI Kolonization Class Suits Redux: CC-BY-SA-4.0 License Copyright (c) 2019 overkill13
 

@@ -1,4 +1,4 @@
-# Caerfinon-Suits
+# Caerfinon's Suits
 Suits for Stock KSP Suit Picker
 -------------------------------
 I'm a big fan of using the Suit Picker to select the look of my Kerbals and mods that provide suits in that format.  

@@ -11,8 +11,9 @@ release v1.0.0
   - Trans Kerbin Airlines Flight Suit - "KerbinSide Remastered GAP"
   - United Knations Navy Working Suit - "KerbinSide Remastered GAP"
   - United Knations ("The Blue Helmets") - "KerbinSide Remastered GAP"
+
 release v1.0.1
-  - Team Zissou suits - "KerbinSide Remastered - The Life Aquatic"
+  - Team Zissou Suit - "KerbinSide Remastered - The Life Aquatic"
      - Includes optional red beanie hat and a TZ flag asset
 
 I'm also a big fan of USI Kolonization suits but couldn't find a suit picker version, so I adapted those suit textures to work 
